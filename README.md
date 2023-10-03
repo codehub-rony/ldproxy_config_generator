@@ -1,6 +1,6 @@
 # ldproxy service yml generator
 
-A simple python script for creating basic structure for the service configuration file(`store/entities/services`) for [ldproxy](https://github.com/interactive-instruments/ldproxy). Script also generates structure for some api buildingblocks
+A simple python script for creating basic structure for the service configuration file(`store/entities/services`) for [ldproxy](https://github.com/interactive-instruments/ldproxy). Script also generates structure for some api buildingblocks.
 
 Currently the following building blocks are supported
 
